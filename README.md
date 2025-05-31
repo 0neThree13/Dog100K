@@ -3,7 +3,7 @@
 Dog100K 是目前全网最大规模的高质量狗狗图文对齐数据集，包含超过 100,000 对图像与对应文本描述，专为图文检索、多模态学习、生成模型等任务设计。
 
 <p align="center">
-  <img src="1.png" alt="Dog100K 示例" width="1000"/>
+  <img src="image.png" alt="Dog100K 示例" width="1000"/>
 </p>
 
 ---
